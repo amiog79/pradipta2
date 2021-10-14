@@ -6,7 +6,7 @@
 
 <h3 style="font-size: 50px; background: black; color:yellow; text-align: center;">YOUTUBE VIDEO</h3>  
 
-<iframe width="1500" height="700" src="https://www.youtube.com/embed/80OX5xMvJP4">
+<iframe width="1400" height="700" src="https://www.youtube.com/embed/80OX5xMvJP4">
 </iframe>
 
 </body>
